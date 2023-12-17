@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameysatwe&label=Profile%20views&color=0e75b6&style=flat" alt="ameysatwe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameysatwe" alt="ameysatwe" /></a> </p>
+- 🌱 I’m currently learning **Unity**
+
+- 📫 How to reach me **satwe.a@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
