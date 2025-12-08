@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameysatwe&label=Profile%20views&color=0e75b6&style=flat" alt="ameysatwe" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine,Cloud computing and DSA at Northeastern University.**
+- 🌱 I’m currently learning **Cloud computing and DSA at Northeastern University.**
 
 - 📫 How to reach me **satwe.a@northeastern.edu**
 
