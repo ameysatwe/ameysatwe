@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a software engineer with experience at **Philips, Dassault Systèmes, and Google**, building production systems across distributed services, cloud infrastructure, and full-stack web platforms. Currently completing my **MS in Information Systems at Northeastern University** (graduating Dec 2025) and based in **Sunnyvale, CA**.
+I'm a software engineer with experience at **Philips, Dassault Systèmes, and Google**, building production systems across distributed services, cloud infrastructure, and full-stack web platforms. Currently completing my **MS in Information Systems at Northeastern University** (Dec 2025) and based in **Sunnyvale, CA**.
 
 I work most comfortably in **TypeScript, Python, and C#** on the backend, and **React/Node.js** on the frontend. Lately I've been deep in **AWS serverless** patterns, event-driven architectures, and using AI tooling (Claude Code, Copilot) to ship faster.
 
@@ -20,7 +20,7 @@ I work most comfortably in **TypeScript, Python, and C#** on the backend, and **
 
 ### 🚀 What I'm Up To
 
-- 🎓 Wrapping up my MS at Northeastern — **graduating December 2025**
+- 🎓 Just completed my MS at Northeastern — **December 2025**
 - 🔍 **Actively interviewing** for Full Stack & Backend SWE roles (Bay Area, Hybrid, or Remote)
 - 🛠️ Building event-driven services on AWS Lambda + DynamoDB + SQS
 - 💼 Open to W2 — **F-1 OPT with EAD in hand**, STEM extension eligible
